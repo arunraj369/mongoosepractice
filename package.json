@@ -1,7 +1,7 @@
 {
   "name": "mongoose",
   "version": "1.0.0",
-  "description": "",
+  "description": "after pull this code do npm init and npm install mongoose",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
